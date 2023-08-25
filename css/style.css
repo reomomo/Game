@@ -1,0 +1,10 @@
+table {
+  background-color: #B8860B;
+  width: 60%;
+}
+
+
+.border {
+  border: 3rem solid #B8860B;
+  border-radius: 30px;
+}
